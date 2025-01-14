@@ -9,3 +9,8 @@ They will be the base engines for even higher mathematics such as Differential E
 ## Note to self 📝
 
 - Creating a model that categorizes inputs and selects the most appropriate functions using classification may be beneficial by offering an efficient approach towards the scalability of functions and techniques.
+
+## To Do ✔️
+
+- Create the Number class
+- Create the Fraction class
